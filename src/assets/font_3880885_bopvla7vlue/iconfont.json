@@ -1,0 +1,72 @@
+{
+  "id": "3880885",
+  "name": "MusicAPI",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "8106226",
+      "name": "musiclist",
+      "font_class": "musiclist",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "8106237",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e69e",
+      "unicode_decimal": 59038
+    },
+    {
+      "icon_id": "8106273",
+      "name": "timeout",
+      "font_class": "timeout",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "33519",
+      "name": "home_fill",
+      "font_class": "homefill",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "90854",
+      "name": "rank",
+      "font_class": "rank",
+      "unicode": "e722",
+      "unicode_decimal": 59170
+    },
+    {
+      "icon_id": "1493656",
+      "name": "we_fill_light",
+      "font_class": "we_fill_light",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "1496054",
+      "name": "appreciate_light",
+      "font_class": "appreciate_light",
+      "unicode": "e7e1",
+      "unicode_decimal": 59361
+    },
+    {
+      "icon_id": "1512529",
+      "name": "more_android_light",
+      "font_class": "more_android_light",
+      "unicode": "e7e3",
+      "unicode_decimal": 59363
+    },
+    {
+      "icon_id": "3935129",
+      "name": "round_list_light",
+      "font_class": "round_list_light",
+      "unicode": "e800",
+      "unicode_decimal": 59392
+    }
+  ]
+}
