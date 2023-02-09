@@ -49,6 +49,7 @@ export default {
       item.al = item.album
       item.al.picUrl = item.album.artist.img1v1Url
       item.ar = item.artists
+      // 这里是把搜索中点击的歌push到了playlist中所以不会继续播放后面的歌曲
       this.$store.commit('pushPlayList', item)
       this.$store.commit('updatePlayListIndex', this.$store.state.playList.length - 1)
     }
