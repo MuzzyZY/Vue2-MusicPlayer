@@ -1,4 +1,4 @@
-# 该项目需要配合网易云音乐API接口使用
+# 该项目需要配合网易云音乐API接口使用    简陋制作 请见谅
 
 # 网易云音乐API接口的GitHub网址：[Binaryify/NeteaseCloudMusicApi: 网易云音乐 Node.js API service (github.com)](https://github.com/Binaryify/NeteaseCloudMusicApi)
 
