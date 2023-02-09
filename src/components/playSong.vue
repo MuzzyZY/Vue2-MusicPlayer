@@ -50,7 +50,7 @@ export default {
   methods: {
     getSongLyric() {
       getMusicLyric(this.playList[this.playListIndex].id).then(res => {
-        console.log(res.data.lrc)
+        // console.log(res.data.lrc)
       })
     },
     updateRange(val) {
